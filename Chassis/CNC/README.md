@@ -5,26 +5,26 @@ This is a chassis that can be manufactured using CNC.
 It has been tested using JLCPCBs CNC Manufacturing service using:
  * 6061 Aliminium
  * Finish
-   * Bead Blasting - 120 mesh
-   * Matte Anodising - Natural
+   * Bead Blasting - 100 mesh
+   * Matte Anodising - Dark Grey
  * Tolerance ISO 2768 medium
 
 The STEP files are the original CAD files, these are made available so that modifications can easily be made. If the STEP files from the Electronics folder are imported too it will be possible to see the clearances for various parts.
 
 # The Chassis
 
-The files found in the "CNC Parts" folder must be uploaded to JLCPCB (or another) manufacturer.
-
-The STEP file must be uploaded to provide the design itself.
+The STEP files in "CNC Parts" must be uploaded to provide the design itself.
 
 When preparing the order use the following settings:
  * Material 6061 Aliminium
  * Finish
-   * Bead Blasting - 150 Grid
-   * Matte Anodising - Natural
+   * Bead Blasting - 100 mesh
+   * Matte Anodising - Dark Grey
  * Tolerance ISO 2768 medium
  * Threads "Yes"
-   * Upload the "Thread and Machine Spec" to provide thread details
+   * Upload the "Thread and Machine Spec.pdf" to provide thread details
+
+You will need to request a manual quote from JLCPCB before youu can proceed to place your order.
 
 # Other Parts
 
