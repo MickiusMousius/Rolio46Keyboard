@@ -8,6 +8,8 @@ The STEP files are the original CAD files, these are made available so that modi
 
 # The Chassis
 
+It is strongly recommend that you use a rigid filament, PLA+ and PETG are both flexible and not reccomended unless they also have a stiffening additive such as carbon fiber. If using a carbon fiber filament please ensure that it is non conductive.
+
 The "Top Plate" should be printed face down (Bambu studio's auto orient does this automatically) with supports enabled, bridge support should be disabled.
 
 The "LCD Bracket", "Reset Button" and "USB Diffuser" should be printed on a smooth build plate with very fine layer lines (tested at 0.12mm).
