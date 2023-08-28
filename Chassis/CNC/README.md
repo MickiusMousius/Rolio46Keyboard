@@ -5,7 +5,7 @@ This is a chassis that can be manufactured using CNC.
 It has been tested using JLCPCBs CNC Manufacturing service using:
  * 6061 Aliminium
  * Finish
-   * Bead Blasting - 150 Grid
+   * Bead Blasting - 120 mesh
    * Matte Anodising - Natural
  * Tolerance ISO 2768 medium
 
