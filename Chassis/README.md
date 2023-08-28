@@ -8,7 +8,7 @@ The folders within here are described below.
 
 ## Electronics
 
-This contains STEP file models with the electronics and PCB. These can be used when creating new Chassis or modifying the existing models. These files should be helpful for validating component clearances.
+This contains STEP file models with the electronics and PCB. These can be used when creating new chassis or modifying the existing models. These files should be helpful for validating component clearances.
 
 ## FDM
 
@@ -22,11 +22,13 @@ The other chassis designs are based on this one as it is the cheapest for prtoto
 
 ## MJF
 
-Contains designs for MJF, SLS or SLA chassis.
+Contains designs for MJF, SLS or SLA manufacturing of chassis.
 
 All three manufacturing methods should produce better cosmetic results than FDM.
 
 MJF is more expensive than SLA but should also produce a more durable result.
+
+In practical terms SLS and MJF should be roughly equivalent when using similar materials.
 
 ## CNC
 
