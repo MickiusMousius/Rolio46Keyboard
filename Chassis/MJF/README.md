@@ -21,4 +21,4 @@ The "USB Diffuser" is optional, if it is printed it should ideally be printed in
 
 # Other Parts
 
-You will also require 5x M2x4 screws & 4x 9mm non-slip silicone feet.
+You will also require 10x M2x4 screws & 8x 9mm non-slip silicone feet.
