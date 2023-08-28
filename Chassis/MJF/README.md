@@ -8,8 +8,8 @@ In order to print the chassis the STL files in the "MJF Parts" folder can be upl
 
 In addition to the MJF/SLA parts some components need to be printed using FDM (SLA may also work). The required STL files can be found in the "FDM Parts" folder.
 
-When printing the FDM parts the "LCD Bracket", "Reset Button" and "USB Diffuser" should be printer on a smooth build plate with very fine layer lines (tested at 0.12mm).
+When printing the FDM parts the "LCD Bracket", "Reset Button" and "USB Diffuser" should be printed on a smooth build plate with very fine layer lines (tested at 0.12mm).
 
-You will need to print two  "USB Diffuser" and "Reset Buttons", since they are very small it may be wise to print three in total (depending on the printer).
+You will need to print two "USB Diffuser" and "Reset Buttons", since they are very small it may be wise to print three in total (depending on the printer).
 
 The "USB Diffuser" is optional, if it is printed it should ideally be printed in clear filament so that light from the LED indicators can shine through.
