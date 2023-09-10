@@ -55,7 +55,7 @@ ZMK Keymap & Custom keycaps:
 - MacOS and Windows modes
 - All of the symbols and special behaviours can be accessed using at most two keys
 - The settings keys and different modes are more or less documented in the key caps themselves (easy to learn).
-- The keymap can be easily customised thanks to ZMK, the keycaps can also be customised to suit you needs
+- The keymap can be easily customised thanks to ZMK, the keycaps can also be customised to suit your needs
    - Here is a starting point for making your own key caps: [FKCaps](https://fkcaps.com/custom/MKA4FX)
 
 ![Version 1.0 Key Caps](images/key_legend.jpeg?raw=true "Version 1.0 Key Caps")
@@ -99,7 +99,7 @@ The parts in the below table are only needed for the backlight, if you do not wa
 | 2   | 30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23  | Q1   | AO3400A   | [Aliexpress](https://www.aliexpress.com/item/4000338838713.html?spm=a2g0o.order_list.order_list_main.131.675e1802ITKJQ5)  |
 | 2 | 0805 Surface mount resistor  | R1  | 470Ω  | [Aliexpress](https://www.aliexpress.com/item/1005001794062302.html?spm=a2g0o.productlist.main.1.2bbc4d8fZh4OMh&algo_pvid=cd85416e-f214-4653-8231-9cafb078d750&algo_exp_id=cd85416e-f214-4653-8231-9cafb078d750-0&pdp_npi=4%40dis%21AUD%210.87%210.74%21%21%214.04%21%21%402101e9cf16943107335705048ea1b0%2112000017594821225%21sea%21AU%21192529469%21S&curPageLogUid=wKZhmIBeFMXc) |
 | 2 | 0805 Surface mount resistor  | R2  | 10kΩ  | [Aliexpress](https://www.aliexpress.com/item/1005001794062302.html?spm=a2g0o.productlist.main.1.2bbc4d8fZh4OMh&algo_pvid=cd85416e-f214-4653-8231-9cafb078d750&algo_exp_id=cd85416e-f214-4653-8231-9cafb078d750-0&pdp_npi=4%40dis%21AUD%210.87%210.74%21%21%214.04%21%21%402101e9cf16943107335705048ea1b0%2112000017594821225%21sea%21AU%21192529469%21S&curPageLogUid=wKZhmIBeFMXc) |
-| 2 | 0805 Surface mount resistor  | R3-R25 | 680Ω  | [Aliexpress](https://www.aliexpress.com/item/1005001794062302.html?spm=a2g0o.productlist.main.1.2bbc4d8fZh4OMh&algo_pvid=cd85416e-f214-4653-8231-9cafb078d750&algo_exp_id=cd85416e-f214-4653-8231-9cafb078d750-0&pdp_npi=4%40dis%21AUD%210.87%210.74%21%21%214.04%21%21%402101e9cf16943107335705048ea1b0%2112000017594821225%21sea%21AU%21192529469%21S&curPageLogUid=wKZhmIBeFMXc) |
+| 46 | 0805 Surface mount resistor  | R3-R25 | 680Ω  | [Aliexpress](https://www.aliexpress.com/item/1005001794062302.html?spm=a2g0o.productlist.main.1.2bbc4d8fZh4OMh&algo_pvid=cd85416e-f214-4653-8231-9cafb078d750&algo_exp_id=cd85416e-f214-4653-8231-9cafb078d750-0&pdp_npi=4%40dis%21AUD%210.87%210.74%21%21%214.04%21%21%402101e9cf16943107335705048ea1b0%2112000017594821225%21sea%21AU%21192529469%21S&curPageLogUid=wKZhmIBeFMXc) |
 | 46  | 0805 Surface mount LED  | LED1 - LED23  | - | [Aliexpress](https://www.aliexpress.com/item/1005004341345794.html?spm=a2g0o.order_list.order_list_main.25.675e1802ITKJQ5 )  |
 
 
