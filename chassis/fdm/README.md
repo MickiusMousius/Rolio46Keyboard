@@ -1,3 +1,4 @@
+
 # Introduction
 
 This is a chassis that can be printed using a conventional FDM (filament) printer.
@@ -10,13 +11,18 @@ The STEP files are the original CAD files, these are made available so that modi
 
 Backlight on and at a lowish setting.
 
-![FDM 0.1 Example](../../images/fdm/main.jpeg?raw=true "FDM 0.1 Example")
+![FDM 0.1 Example](../../images/fdm/fdm_3.jpg?raw=true "FDM 0.9 Example")
+![FDM 0.1 Example](../../images/fdm/fdm_4.jpg?raw=true "FDM 0.9 Example")
 
 The USB port has a small printable surround that makes the charge and Bluetooth indicator LEDs visible.
 
-![FDM 0.1 Example](../../images/fdm/indicators.jpeg?raw=true "FDM 0.1 Example")
+![FDM 0.1 Example](../../images/fdm/fdm_5.jpg?raw=true "FDM 0.9 Example")
 
-![FDM 0.1 Example](../../images/fdm/rear.jpeg?raw=true "FDM 0.1 Example")
+
+In normal daylight conditions.
+
+![FDM 0.1 Example](../../images/fdm/fdm_2.jpg?raw=true "FDM 0.9 Example")
+![FDM 0.1 Example](../../images/fdm/fdm_1.jpg?raw=true "FDM 0.9 Example")
 
 # The Chassis
 
@@ -26,8 +32,10 @@ The "Top Plate" should be printed face down with supports enabled, bridge suppor
 
 The "LCD Bracket", "Reset Button" and "USB Diffuser" should be printed on a smooth build plate with very fine layer lines (tested at 0.12mm).
 
+The "Power Switch" should be printed with a raft and very fine layer lines too. When printing a multicolor switch I found that a 0.2mm nozzle yielded best results, however, a 0.4mm nozzle does also work.
+
 The "USB Diffuser" is optional, if it is printed it should ideally be printed in clear filament so that light from the LED indicators can shine through.
 
 # Other Parts
 
-You will also require 10x M2x4 screws & 8x 9mm non-slip silicone feet.
+You will also require 10x M2x4 screws & 8x 8mm non-slip silicone feet.

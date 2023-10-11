@@ -1,0 +1,92 @@
+22013091972897
+RolioSymbols
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+RolioSymbols
+EVQWGD001
+
+
+0
+6
+6
+RolioSymbols
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+RolioSymbols
+LED_0805_2012Metric
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+RolioSymbols
+MountingHole_4.3mm_M4
+Mounting Hole 4.3mm, no annular, M4
+mounting hole 4.3mm no annular m4
+0
+0
+0
+RolioSymbols
+Nice Nano
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+24
+24
+RolioSymbols
+PinHeader_1x02_P2.00mm_Vertical
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+RolioSymbols
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+RolioSymbols
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+RolioSymbols
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+RolioSymbols
+SW_SPDT_PCM12
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+7
+3
+RolioSymbols
+SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS
+Tactile switch, SPST, 6.0x3.5 mm, H2.5 mm, straight, NO, gull wing leads: https://www.ckswitches.com/media/2779/pts636.pdf
+switch tactile SPST 1P1T straight NO SMTR C&K
+0
+2
+2
+RolioSymbols
+Test Pads
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2

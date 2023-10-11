@@ -1,64 +1,50 @@
 # Introduction
-I made this project mostly as a way to refresh some skills that I'd not had a chance to use in many years (or simply never had to begin with).
+Currently the project is still at a pre-release level, this is the second update, putting it at 0.9, once again I felt it was nice enough to share.
 
-Currently the project is only at a pre-release level, but I felt it was already nice enough to share.
+![CNC 0.9 Example](images/cnc/cnc_2.jpg?raw=true "CNC 0.9 Example")
+![FDM 0.9 Chassis](images/fdm/fdm_3.jpg?raw=true "FDM 0.9 Chassis")
 
-![CNC 0.1 Chassis](images/cnc/main.png?raw=true "CNC 0.1 Chassis")
+Version 1.0 is well underway, the PCBs are already in the mail and the CAD models are ready for me to print and test.
 
-Version 1.0 is well underway and I believe much closer to achieving my desired goals. Here's a preview:
-
-![Version 1.0 Preview Render](images/preview_v1.png?raw=true "Version 1.0 Preview Render")
-
-The version 1.0 release improves:
-- The power switch is easier to operate
-- It's much prettier (to me anyway)
-- The PCB can have most parts soldered using a hot plate or oven
-  - This is important as it makes pre-soldered boards cheaper to produce
-  - It simplifies at home production for those with an oven or hotplate
-- A set of test points for the backlight has been added to test things before the controller is added
-- The CNC chassis has been improved by:
-   - Reducing the number of tool changes required to produce it and simplifying tool paths
-   - Simplified the production of the damping membranes
-   - Simplified end user assembly
-
-### Goals
-The primary goal of this project is to provide a compact open source consumer grade backlit split wireless keyboard.
-
-There are a few other secondary reuirements:
-- It needs to be able to be assembled at home without highly specialised tools.
-- The parts need to be accessible to hobbyists.
-- It needs to be easy to modify and fork.
-- Ideally it should be easy for "keyboard hobby stores" to sell to hobbyists should there be interest in this keyboard.
-- A few price-point options should be available (currently with/without a backlight and FDM or CNC chassis options).
-
-
-### Inspiration
-Inspiration for this project came from the Corne and Sofle keyboards, these are both excellent projects. I have attempted to combine what I believe are the best aspects of both of these keyboards into a single project.
+Inspiration for this project came from the [Corne](https://github.com/foostan/crkbd) and [Sofle](https://github.com/josefadamcik/SofleKeyboard) keyboards, these are both excellent projects. I have attempted to combine what I believe are the best aspects of both of these keyboards into a single project.
 
 ### Features
-
 The keyboard itself:
 - Fully wireless thanks to the Nice!Nano controllers and awesome [ZMK firmware](https://zmk.dev)
-- Compact portable form factor that is similar to the Corne
-- Additional "Sometimes" buttons on the bottom row like the Sofle
-- Choc spacing
-- Low profile
+- Excellent battery life, I've personally been getting 2+ weeks before it gets to 60%
+- A low profile, compact choc spaced form factor that is similar to the Corne
+- Additional "Sometimes" buttons on the bottom row just like the Sofle
+- Horizontal roller encoders on both halves
 - A backlight that is efficient enough to be used on battery
-- Horizontal rotary encoders
 - A robust chassis so that it can be treated like a normal keyboard
   - An FDM version for at home low cost production
   - A CNC option for a slick look and very premium feel
-- A travel case that can easily be made using FDM (will be in v1.0)
+- A travel case that can easily be made using any FDM printer
 
 ZMK Keymap & Custom keycaps:
-- The keycaps are fully customised and match the ZMK keymap thanks to fkcaps
-- MacOS and Windows modes
-- All of the symbols and special behaviours can be accessed using at most two keys
-- The settings keys and different modes are more or less documented in the key caps themselves (easy to learn).
-- The keymap can be easily customised thanks to ZMK, the keycaps can also be customised to suit your needs
-   - Here is a starting point for making your own key caps: [FKCaps](https://fkcaps.com/custom/MKA4FX)
+- Up to five memorized bluetooth profiles and a USB mode
+- The keycaps are fully customized and match the ZMK keymap thanks to [FKCaps](https://fkcaps.com/custom/FGE2DW)
+- MacOS and Windows modes as part of the keymap to keep the "same" handy macros in both OSs
+- All of the symbols and special behaviors can be accessed using at most two keys
+- The settings keys and different modes are documented in the key caps themselves (easy to learn).
+- The keymap can be easily customized thanks to ZMK, the keycaps can also be customized to suit your needs
+   - Here is a starting point for making your own key caps: [FKCaps](https://fkcaps.com/custom/FGE2DW)
 
-![Version 1.0 Key Caps](images/key_legend.jpeg?raw=true "Version 1.0 Key Caps")
+[![Version 1.0 Key Caps](images/key_legend.png?raw=true "Version 1.0 Key Caps")](https://fkcaps.com/custom/FGE2DW)
+
+
+### Goals
+The primary goal of this project is to provide a compact open source backlit split wireless keyboard.
+
+There are a few other secondary requirements:
+- It needs to be able to be assembled at home without highly specialized tools.
+- The parts need to be accessible to hobbyists.
+- It needs to be easy to modify and fork.
+- Ideally it should be easy for "keyboard hobby stores" to sell to hobbyists should there be interest in this keyboard.
+- A few price-point options should be available.
+
+<br/>
+<br/>
 
 
 # Making Your Own Rolio
@@ -81,18 +67,19 @@ All of the components in th below table are required to build this keyboard.
 |:----------|:----------|:----------|:----------|:----------|
 | 2    | LiPo Battery, Protected, 801230 (alternatives: 601230, 701230)   | BATT1 | 701230    | [Aliexpress 1](https://www.aliexpress.com/item/1005003667851773.html?spm=a2g0o.order_list.order_list_main.109.675e1802ITKJQ5 ), [Aliexpress 2](  https://www.aliexpress.com/item/1005005386757680.html?spm=a2g0o.order_list.order_list_main.73.675e1802ITKJQ5 )   |
 | 48    | 75V 0.15A Fast Switching Diode, SOD-123    | D1-D29    | 1N4148W    | [Aliexpress](https://www.aliexpress.com/item/1005003102614335.html?spm=a2g0o.order_list.order_list_main.13.675e1802ITKJQ5 )    |
-| 2  | Nice!Nano Controller  | -    | -    | [Typeractive](https://typeractive.xyz/products/nice-nano)   |
+| 2  | Nice!Nano Controller  | -    | -    | [Typeractive](https://typeractive.xyz/products/nice-nano) |
 | 2  | Machine sockets and pins | -    | -   | [Typeractive](https://typeractive.xyz/products/machine-sockets-and-pins?_pos=1&_sid=3c03709e0&_ss=r)   |
 | 2    | Nice!View Sharp Memory display module  | -  | -  | [Typeractive](https://typeractive.xyz/products/nice-view )  |
 | 2    | Surface mount push button switch, generic, two pins    | RESET1   | -   | [Aliexpress](https://www.aliexpress.com/item/1005004297433455.html?spm=a2g0o.order_list.order_list_main.136.675e1802ITKJQ5 ) (I used "Option 4")  |
 | 2  | Surface mount DIP Switch, Single Pole Single Throw (SPST) switch, small symbol   | SW4  | -   | [Aliexpress](https://www.aliexpress.com/item/4000685483225.html?spm=a2g0o.order_list.order_list_main.177.675e1802ITKJQ5) |
 | 2  | EVQWGD001 Rotary encoder, dual channel, incremental quadrate outputs, with switch  | RE_1  | EVQWGD001  | [Aliexpress](https://www.aliexpress.com/item/32990950196.html?spm=a2g0o.detail.0.0.d848ibGnibGnWq&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a7670640-8b96-4c08-a45e-ac785f25eb7d&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:a7670640-8b96-4c08-a45e-ac785f25eb7d,tpp_buckets:668%232846%238114%231999&pdp_npi=4%40dis%21AUD%2110.27%218.31%21%21%216.46%21%21%40210321dc16943086866475019e3a72%2112000016374535112%21rec%21AU%21192529469%21S ) |
+| 4  | 0805 Surface mount capacitors  | C1, C2  | 100nF  | [Aliexpress](https://www.aliexpress.com/item/32888863725.html?spm=a2g0o.productlist.main.1.421ed7d7TDWEJj&algo_pvid=64889c03-7048-4b0c-b35b-564d9069f833&algo_exp_id=64889c03-7048-4b0c-b35b-564d9069f833-0&pdp_npi=4%40dis%21AUD%215.93%215.34%21%21%213.72%21%21%402101e9d116966657566622481e9c98%2110000000070124058%21sea%21AU%21192529469%21&curPageLogUid=FUlprN51Ouc7) |
 | 46  | Kailh Choc hot swap sockets PG1350 | - | -  | [Aliexpress](https://www.aliexpress.com/item/1005003916481415.html?spm=a2g0o.store_pc_allProduct.8148356.63.1a497474I4Gojr&pdp_npi=3%40dis%21AUD%21AU%20%245.45%21AU%20%243.77%21%21%21%21%21%40210318b916943096379284692e935a%2112000027459452033%21sh%21AU%21192529469) |
 | 46 | Kailh Choc Switches  | -  | -  | [Aliexpress](https://www.aliexpress.com/item/1005005446722280.html?spm=a2g0o.order_list.order_list_main.97.675e1802ITKJQ5 )  |
 
 <ins>Optional Backlight Components</ins>
 
-The parts in the below table are only needed for the backlight, if you do not want a backlight they can be ommitted from you build to save some money.
+The parts in the below table are only needed for the backlight, if you do not want a backlight they can be omitted from your build to save some money.
 
 | Quantity  | Description  | Ref  | Value  | Supplier  |
 |:----------|:----------|:----------|:----------|:----------|
@@ -117,7 +104,7 @@ This keyboard has been designed to use MBK caps. You should however be able to u
 
 You can order a set of custom keycaps from a number of possible suppliers too.
 
-I have a design at FKCaps that has the keymap of this board integrated into the keys. The link for this key cap set can be found [HERE](https://fkcaps.com/custom/MKA4FX).
+I have a design at FKCaps that has the keymap of this board integrated into the keys. The link for this key cap set can be found [HERE](https://fkcaps.com/custom/FGE2DW).
 
 <ins>General Hardware</ins>
 
@@ -130,9 +117,9 @@ I have a design at FKCaps that has the keymap of this board integrated into the 
 
 ### Firmware
 
-You can download the latest firmware from here: 
+You can download the latest firmware from here: [releases](https://github.com/MickiusMousius/RolioKeyboard/releases)
 
-Fork the following repository: [RolioFirmware](https://github.com/MickiusMousius/RolioFirmware)
+If you want to customise the firmware (or your keymap) fork the following repository: [RolioFirmware](https://github.com/MickiusMousius/RolioFirmware)
 
 When you push a change to your fork a GitHub action will create a new firmware build for you.
 
@@ -142,7 +129,7 @@ When you push a change to your fork a GitHub action will create a new firmware b
 TODO: Make some assembly instructions.
 
 Assembly notes (pre-release version):
- - Solder the top resistors first, then the LED's, then the pther surface mount parts
+ - Solder the top resistors first, then the LED's, then the other surface mount parts
  - The height of the controller and display are very important to fitting everything nicely into the chassis, make sure everything is flush and seated all the way.
  - Be sure to trim the legs of any through hole components after soldering, as above, the clearances are very important.
 
