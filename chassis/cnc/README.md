@@ -21,7 +21,7 @@ Backlight on and at a lowish setting, the backlight is a bit yellow as I'm using
 
 The USB port has a small printable surround that makes the charge and Bluetooth indicator LEDs visible.
 
-![CNC 0.9 Example](../../images/fdm/cnc_4.jpg?raw=true "CNC 0.9 Example")
+![CNC 0.9 Example](../../images/cnc/cnc_4.jpg?raw=true "CNC 0.9 Example")
 
 
 In normal daylight conditions.
