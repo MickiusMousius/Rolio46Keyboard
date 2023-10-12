@@ -1,7 +1,7 @@
 # Introduction
 Currently the project is still at a pre-release level, this is the second update, putting it at 0.9, once again I felt it was nice enough to share.
 
-![CNC 0.9 Example](images/cnc/cnc_2.jpg?raw=true "CNC 0.9 Example")
+![CNC 0.9 Example](images/main.jpg?raw=true "CNC 0.9 Example")
 ![FDM 0.9 Chassis](images/fdm/fdm_3.jpg?raw=true "FDM 0.9 Chassis")
 
 Version 1.0 is well underway, the PCBs are already in the mail and the CAD models are ready for me to print and test.
@@ -68,15 +68,15 @@ All of the components in th below table are required to build this keyboard.
 | Quantity  | Description  | Ref  | Value  | Supplier  |
 |:----------|:----------|:----------|:----------|:----------|
 | 2    | LiPo Battery, Protected, 801230 (alternatives: 601230, 701230)   | BATT1 | 701230    | [Aliexpress 1](https://www.aliexpress.com/item/1005003667851773.html?spm=a2g0o.order_list.order_list_main.109.675e1802ITKJQ5 ), [Aliexpress 2](  https://www.aliexpress.com/item/1005005386757680.html?spm=a2g0o.order_list.order_list_main.73.675e1802ITKJQ5 )   |
-| 48    | 75V 0.15A Fast Switching Diode, SOD-123    | D1-D29    | 1N4148W    | [Aliexpress](https://www.aliexpress.com/item/1005003102614335.html?spm=a2g0o.order_list.order_list_main.13.675e1802ITKJQ5 )    |
+| 48    | 75V 0.15A Fast Switching Diode, SOD-123    | D1-D29    | 1N4148W    | [Aliexpress](https://www.aliexpress.com/item/4000685043735.html?spm=a2g0o.productlist.main.1.4fdc3d00DqAdPM&algo_pvid=b3d5a5ae-e50d-4501-af77-be2bdf4c63d0&algo_exp_id=b3d5a5ae-e50d-4501-af77-be2bdf4c63d0-0&pdp_npi=4%40dis%21AUD%211.58%211.18%21%21%211.00%21%21%402101ea7116971111863577912e12a5%2110000006015575494%21sea%21AU%21192529469%21&curPageLogUid=XZjBpJ8fx53X )    |
 | 2  | Nice!Nano Controller  | -    | -    | [Typeractive](https://typeractive.xyz/products/nice-nano) |
 | 2  | Machine sockets and pins | -    | -   | [Typeractive](https://typeractive.xyz/products/machine-sockets-and-pins?_pos=1&_sid=3c03709e0&_ss=r)   |
 | 2    | Nice!View Sharp Memory display module  | -  | -  | [Typeractive](https://typeractive.xyz/products/nice-view )  |
 | 2    | Surface mount push button switch, generic, two pins    | RESET1   | -   | [Aliexpress](https://www.aliexpress.com/item/1005004297433455.html?spm=a2g0o.order_list.order_list_main.136.675e1802ITKJQ5 ) (I used "Option 4")  |
 | 2  | Surface mount DIP Switch, Single Pole Single Throw (SPST) switch, small symbol   | SW4  | -   | [Aliexpress](https://www.aliexpress.com/item/4000685483225.html?spm=a2g0o.order_list.order_list_main.177.675e1802ITKJQ5) |
-| 2  | EVQWGD001 Rotary encoder, dual channel, incremental quadrate outputs, with switch  | RE_1  | EVQWGD001  | [Aliexpress](https://www.aliexpress.com/item/32990950196.html?spm=a2g0o.detail.0.0.d848ibGnibGnWq&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a7670640-8b96-4c08-a45e-ac785f25eb7d&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:a7670640-8b96-4c08-a45e-ac785f25eb7d,tpp_buckets:668%232846%238114%231999&pdp_npi=4%40dis%21AUD%2110.27%218.31%21%21%216.46%21%21%40210321dc16943086866475019e3a72%2112000016374535112%21rec%21AU%21192529469%21S ) |
+| 2  | EVQWGD001 Rotary encoder, dual channel, incremental quadrate outputs, with switch  | RE_1  | EVQWGD001  | [Aliexpress](https://www.aliexpress.com/item/1005004320540116.html?spm=a2g0o.productlist.main.23.17631feeTpOfW8&algo_pvid=cfaa226d-1b56-4653-bf93-8ca20c1d1662&algo_exp_id=cfaa226d-1b56-4653-bf93-8ca20c1d1662-11&pdp_npi=4%40dis%21AUD%2117.39%2111.31%21%21%2111.01%21%21%402103011716971110881116110e900c%2112000028743285676%21sea%21AU%21192529469%21&curPageLogUid=qpQkvoiHmsxz ) |
 | 4  | 0805 Surface mount capacitors  | C1, C2  | 100nF  | [Aliexpress](https://www.aliexpress.com/item/32888863725.html?spm=a2g0o.productlist.main.1.421ed7d7TDWEJj&algo_pvid=64889c03-7048-4b0c-b35b-564d9069f833&algo_exp_id=64889c03-7048-4b0c-b35b-564d9069f833-0&pdp_npi=4%40dis%21AUD%215.93%215.34%21%21%213.72%21%21%402101e9d116966657566622481e9c98%2110000000070124058%21sea%21AU%21192529469%21&curPageLogUid=FUlprN51Ouc7) |
-| 46  | Kailh Choc hot swap sockets PG1350 | - | -  | [Aliexpress](https://www.aliexpress.com/item/1005003916481415.html?spm=a2g0o.store_pc_allProduct.8148356.63.1a497474I4Gojr&pdp_npi=3%40dis%21AUD%21AU%20%245.45%21AU%20%243.77%21%21%21%21%21%40210318b916943096379284692e935a%2112000027459452033%21sh%21AU%21192529469) |
+| 46  | Kailh Choc hot swap sockets PG1350 | - | -  | [Aliexpress](https://www.aliexpress.com/item/1005003908487064.html?spm=a2g0o.productlist.main.3.49fd54f1tOHVAG&algo_pvid=229d47f1-057c-4c60-910a-70a8406ef798&algo_exp_id=229d47f1-057c-4c60-910a-70a8406ef798-1&pdp_npi=4%40dis%21AUD%212.18%211.49%21%21%211.38%21%21%402103242516971112370436660e1166%2112000027440505201%21sea%21AU%21192529469%21&curPageLogUid=gowJDuxybhSp) |
 | 46 | Kailh Choc Switches  | -  | -  | [Aliexpress](https://www.aliexpress.com/item/1005005446722280.html?spm=a2g0o.order_list.order_list_main.97.675e1802ITKJQ5 )  |
 
 <ins>Optional Backlight Components</ins>
@@ -85,7 +85,7 @@ The parts in the below table are only needed for the backlight, if you do not wa
 
 | Quantity  | Description  | Ref  | Value  | Supplier  |
 |:----------|:----------|:----------|:----------|:----------|
-| 2   | 30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23  | Q1   | AO3400A   | [Aliexpress](https://www.aliexpress.com/item/4000338838713.html?spm=a2g0o.order_list.order_list_main.131.675e1802ITKJQ5)  |
+| 2   | 30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23  | Q1   | AO3400A   | [Aliexpress](https://www.aliexpress.com/item/33013971929.html?spm=a2g0o.productlist.main.3.4ccb430f1veGO2&algo_pvid=7ba1cd19-de8e-4e99-83f5-80068013a117&algo_exp_id=7ba1cd19-de8e-4e99-83f5-80068013a117-1&pdp_npi=4%40dis%21AUD%211.33%211.17%21%21%210.84%21%21%40210313e916971112882668959e17f6%2167112817842%21sea%21AU%21192529469%21&curPageLogUid=XIKDhCd7tq6N)  |
 | 2 | 0805 Surface mount resistor  | R1  | 470Ω  | [Aliexpress](https://www.aliexpress.com/item/1005001794062302.html?spm=a2g0o.productlist.main.1.2bbc4d8fZh4OMh&algo_pvid=cd85416e-f214-4653-8231-9cafb078d750&algo_exp_id=cd85416e-f214-4653-8231-9cafb078d750-0&pdp_npi=4%40dis%21AUD%210.87%210.74%21%21%214.04%21%21%402101e9cf16943107335705048ea1b0%2112000017594821225%21sea%21AU%21192529469%21S&curPageLogUid=wKZhmIBeFMXc) |
 | 2 | 0805 Surface mount resistor  | R2  | 10kΩ  | [Aliexpress](https://www.aliexpress.com/item/1005001794062302.html?spm=a2g0o.productlist.main.1.2bbc4d8fZh4OMh&algo_pvid=cd85416e-f214-4653-8231-9cafb078d750&algo_exp_id=cd85416e-f214-4653-8231-9cafb078d750-0&pdp_npi=4%40dis%21AUD%210.87%210.74%21%21%214.04%21%21%402101e9cf16943107335705048ea1b0%2112000017594821225%21sea%21AU%21192529469%21S&curPageLogUid=wKZhmIBeFMXc) |
 | 46 | 0805 Surface mount resistor  | R3-R25 | 680Ω  | [Aliexpress](https://www.aliexpress.com/item/1005001794062302.html?spm=a2g0o.productlist.main.1.2bbc4d8fZh4OMh&algo_pvid=cd85416e-f214-4653-8231-9cafb078d750&algo_exp_id=cd85416e-f214-4653-8231-9cafb078d750-0&pdp_npi=4%40dis%21AUD%210.87%210.74%21%21%214.04%21%21%402101e9cf16943107335705048ea1b0%2112000017594821225%21sea%21AU%21192529469%21S&curPageLogUid=wKZhmIBeFMXc) |
