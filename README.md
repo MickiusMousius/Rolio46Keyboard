@@ -8,7 +8,10 @@ Version 1.0 is well underway, the PCBs are already in the mail and the CAD model
 
 Inspiration for this project came from the [Corne](https://github.com/foostan/crkbd) and [Sofle](https://github.com/josefadamcik/SofleKeyboard) keyboards, these are both excellent projects. I have attempted to combine what I believe are the best aspects of both of these keyboards into a single project.
 
-I've had several people ask if I would be willing to sell them one of the prototype boards. Whilst I don't think the prototypes are good enough, I feel that the 1.0 version very probably will be good enough. With that in mind I am considering opening an online store to sell some of these, though this will likely be at quite low volumes.
+I've had several people ask if I would be willing to sell them one of the prototype boards. Whilst I don't think the prototypes are good enough, I feel that the 1.0 version very probably will be good enough. With that in mind I am considering opening an online store to sell some of these, though this will likely be at quite low volumes. I have a survey below to help collect some information to help with planning:
+ - [Product Interest Form](https://forms.gle/bdBZMKoUopvWX2VN7)
+
+I plan to keep all of the design files freely available, the Rolio relies heavily on opensource products like [ZMK](https://zmk.dev) and I'd like to give something back to the community.
 
 ### Features
 The keyboard itself:
