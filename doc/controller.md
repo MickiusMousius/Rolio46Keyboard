@@ -9,7 +9,7 @@ There are three different controllers that have been tested with this project.
 
 | Nice!Nano  | SuperMini 52840 | 52840Nano |
 | ------------- | ------------- | ------------- |
-| ![Nice!Nano](../images/controllers/nice_nano.jpg)  | ![SuperMini NRF52840](../images/controllers/supermini_52840.jpg)  | ![52840Nano](../images/controllers/c52840Nano.jpg)  |
+| ![Nice!Nano](../images/controllers/nice_nano.jpg)  | ![SuperMini NRF52840](../images/controllers/supermini_52840.jpg)  | ![52840Nano](../images/controllers/52840nano.jpg)  |
 
 Details for each controller are summarized below.
 
