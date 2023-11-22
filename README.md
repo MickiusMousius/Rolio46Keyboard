@@ -46,7 +46,16 @@ In order to build a Rolio 46.1 you will need 5 main sub assemblies, the links be
 The receiver and chassis are the sub assemblies that are most unique to this project, all of the other sub assemblies are fungible.
 
 
-### Other Parts
+# Firmware
+
+You can download the latest firmware from here: [releases](https://github.com/MickiusMousius/RolioKeyboard/releases)
+
+If you want to customise the firmware (or your keymap) fork the following repository: [RolioFirmware](https://github.com/MickiusMousius/RolioFirmware)
+
+When you push a change to your fork a GitHub action will create a new firmware build for you.
+
+
+# Other Components
 
 <ins>Keycaps</ins>
 
@@ -58,15 +67,15 @@ I have a design at FKCaps that has the keymap of this board integrated into the 
 
 
 <ins>Switches</ins>
+
 The Rolio 46 is designed for use with Choc V1 switches, these can be purchased from many different vendors. My personal favorite switch is the "Choc Sunset" switch.
 
-### Firmware
 
-You can download the latest firmware from here: [releases](https://github.com/MickiusMousius/RolioKeyboard/releases)
-
-If you want to customise the firmware (or your keymap) fork the following repository: [RolioFirmware](https://github.com/MickiusMousius/RolioFirmware)
-
-When you push a change to your fork a GitHub action will create a new firmware build for you.
+# To Do
+ * Publish the travel case models
+ * Publish the tenting kit models
+ * Make some small improvements to the base plates and dampers to improve the sound profile
+ * Launch a store...
 
 # Gallery
 
