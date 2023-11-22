@@ -30,7 +30,7 @@ The key details of the Nice!View display are as follows:
 
 The Vista272 is essentially a drop in replacement for the Nice!View display, it uses the exact same display module.
 
-The key details of the Nice!View display are as follows:
+The key details of the Vista272 display are as follows:
  * Display area of 25.28x10.74mm
  * 160x68 pixels
  * Power consumption (Typical - Maximum)
@@ -42,7 +42,7 @@ The key details of the Nice!View display are as follows:
 
 The Vista508 is a wider version of the Vista272, its electrical characteristics are very similar. However, it requires changes to ZMK to play nicely and is not compatible with any of the published Rolio46.1 chassis.
 
-The key details of the Nice!View display are as follows:
+The key details of the Vista508 display are as follows:
  * Display area of 20.88x24.36mm
  * 144x168 pixels
  * Power consumption (Typical - Maximum)
