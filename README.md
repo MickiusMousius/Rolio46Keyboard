@@ -3,7 +3,7 @@ The Rolio 46 is now at the version 1.0 release! This repo contains all the desig
 
 ![CNC 1.0 With travel Case](images/main.png?raw=true "CNC 1.0 With travel Case")
 
-I will be [opening a store](https://keydio.io) to make it easier for people to make their own Rolio 46.1, all of the required parts and sub assemblies will be available for purchase. The main PCBs (AKA receiver boards) will be sold with all of the surface mount components pre-soldered.
+I will be [opening a store](https://keydio.io) to make it easier for people to make their own Rolio 46.1, all of the required parts and sub assemblies will be available for purchase. The main PCBs (AKA shield boards) will be sold with all of the surface mount components pre-soldered.
 
 Tutorial videos on how to do the through hole soldering and final assembly should be available in January 2024 as part of the store launch.
 
@@ -40,10 +40,10 @@ In order to build a Rolio 46.1 you will need 5 main sub assemblies, the links be
  * [The controller](doc/controller.md)
  * [The display](doc/display.md)
  * [The battery](doc/battery.md)
- * [The receiver](pcb/README.md)
+ * [The shield](pcb/README.md)
  * [The chassis](chassis/README.md)
 
-The receiver and chassis are the sub assemblies that are most unique to this project, all of the other sub assemblies are fungible.
+The shield and chassis are the sub assemblies that are most unique to this project, all of the other sub assemblies are fungible.
 
 
 # Firmware

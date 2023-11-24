@@ -1,6 +1,6 @@
 # Introduction
 
-This folder contains the KiCad 7 PCB design files for the left and right receiver boards of the Rolio 46.
+This folder contains the KiCad 7 PCB design files for the left and right shield boards of the Rolio 46.
 
 # Ordering The PCBs from JLCPCB
 
@@ -36,7 +36,7 @@ Ordering is possible with other suppliers, however you should regenerate the Ger
 
 # Required Components
 
-All of the components in the below table are required to build the receiver assembly.
+All of the components in the below table are required to build the shield assembly.
 
 | Quantity  | Description  | Ref  | Value  | Supplier  |
 |:----------|:----------|:----------|:----------|:----------|

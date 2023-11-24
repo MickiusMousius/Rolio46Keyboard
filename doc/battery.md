@@ -6,7 +6,7 @@ The Rolio 46.1 is designed to use a small rechargeable lithium battery with char
 
 Only protected cells should be used with the Rolio 46.1. Additionally, you should only purchase batteries that are reasonably known to be of good quality.
 
-The [receiver boards](../pcb/README.md) have been designed to accommodate a protected 801230 battery below the controller, however, a 701230 battery would likely also fit quite well, though may require securing with Kapton tape.
+The [shield boards](../pcb/README.md) have been designed to accommodate a protected 801230 battery below the controller, however, a 701230 battery would likely also fit quite well, though may require securing with Kapton tape.
 
 I have tested the Liter Energy 801230 batteries, their capacity consistently tests a little over 250mAh. The battery type that has been tested is photographed below:
 
