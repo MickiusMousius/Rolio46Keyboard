@@ -6,7 +6,7 @@ Whilst the displays are technically optional I'd not recommend building a Rolio 
 
 # Displays
 
-Three different display modules have been tested with the Rolio 46. All of these display modules are based on Sharp's memory display technology so offer excellent power consumption profiles.
+Three different display modules have been tested with the Rolio46. All of these display modules are based on Sharp's memory display technology so offer excellent power consumption profiles.
 
 | Nice!View  | Vista272 | Vista508 |
 | ------------- | ------------- | ------------- |

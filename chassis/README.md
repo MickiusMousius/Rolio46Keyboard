@@ -1,6 +1,6 @@
 # Introduction
 
-This folder contains a designs and manufacturing files for the Rolio 46 keyboard chassis.
+This folder contains a designs and manufacturing files for the Rolio46 keyboard chassis.
 
 The folders within here are described below.
 

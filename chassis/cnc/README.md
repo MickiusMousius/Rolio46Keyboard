@@ -1,6 +1,6 @@
 # Introduction
 
-This section contains all of the files and information that is needed to manufacture a CNC Rolio 46.1 chassis.
+This section contains all of the files and information that is needed to manufacture a CNC Rolio46.1 chassis.
 
 The STEP files are the original CAD files, these are made available so that modifications can easily be made. If the STEP files from the Electronics folder are imported too it will be possible to see the clearances for various parts.
 

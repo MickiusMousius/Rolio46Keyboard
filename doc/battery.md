@@ -1,10 +1,10 @@
 # Introduction
 
-The Rolio 46.1 is designed to use a small rechargeable lithium battery with charging provided by the [controller](controller.md).
+The Rolio46.1 is designed to use a small rechargeable lithium battery with charging provided by the [controller](controller.md).
 
 # The Batteries
 
-Only protected cells should be used with the Rolio 46.1. Additionally, you should only purchase batteries that are reasonably known to be of good quality.
+Only protected cells should be used with the Rolio46.1. Additionally, you should only purchase batteries that are reasonably known to be of good quality.
 
 The [shield boards](../pcb/README.md) have been designed to accommodate a protected 801230 battery below the controller, however, a 701230 battery would likely also fit quite well, though may require securing with Kapton tape.
 

@@ -1,13 +1,13 @@
 # Introduction
-The Rolio 46 is now at the version 1.0 release! This repo contains all the design files so you can build your own Rolio 46.1.
+The Rolio46 is now at the version 1.0 release! This repo contains all the design files so you can build your own Rolio46.1.
 
 ![CNC 1.0 With travel Case](images/main.png?raw=true "CNC 1.0 With travel Case")
 
-I will be [opening a store](https://keydio.io) to make it easier for people to make their own Rolio 46.1, all of the required parts and sub assemblies will be available for purchase. The main PCBs (AKA shield boards) will be sold with all of the surface mount components pre-soldered.
+I will be [opening a store](https://keydio.io) to make it easier for people to make their own Rolio46.1, all of the required parts and sub assemblies will be available for purchase. The main PCBs (AKA shield boards) will be sold with all of the surface mount components pre-soldered.
 
 Tutorial videos on how to do the through hole soldering and final assembly should be available in January 2024 as part of the store launch.
 
-I will keep all of the design files freely available, the Rolio 46 relies heavily on open source products like [ZMK](https://zmk.dev) and I'd like to give something back to the community.
+I will keep all of the design files freely available, the Rolio46 relies heavily on open source products like [ZMK](https://zmk.dev) and I'd like to give something back to the community.
 
 # Features
 The keyboard itself:
@@ -36,7 +36,7 @@ ZMK Keymap & Custom keycaps:
 
 
 # Build Resources
-In order to build a Rolio 46.1 you will need 5 main sub assemblies, the links below provide information about the different sub assemblies:
+In order to build a Rolio46.1 you will need 5 main sub assemblies, the links below provide information about the different sub assemblies:
  * [The controller](doc/controller.md)
  * [The display](doc/display.md)
  * [The battery](doc/battery.md)
@@ -68,7 +68,7 @@ I have a design at FKCaps that has the keymap of this board integrated into the 
 
 <ins>Switches</ins>
 
-The Rolio 46 is designed for use with Choc V1 switches, these can be purchased from many different vendors. My personal favorite switch is the "Choc Sunset" switch.
+The Rolio46 is designed for use with Choc V1 switches, these can be purchased from many different vendors. My personal favorite switch is the "Choc Sunset" switch.
 
 
 # To Do

@@ -1,6 +1,6 @@
 # Introduction
 
-This section contains all of the files and information that is needed to manufacture an SLS Rolio 46.1 chassis. SLS is able to produce very durable dark colored matte parts as shown in the "Examples" section.
+This section contains all of the files and information that is needed to manufacture an SLS Rolio46.1 chassis. SLS is able to produce very durable dark colored matte parts as shown in the "Examples" section.
 
 It should be noted here that the SLS parts should also be able to be fabricated using SLA or MJF manufacturing techniques too, however, these have not been tested.
 
