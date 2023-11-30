@@ -44,7 +44,7 @@ Key details are summarized below:
 
 ### 52840Nano
 
-*DANGER: This has been tested to mostly work, however, it has an unregulated peripheral power pin. Whilst it appears to mostly work it will eventually destroy your display and.*
+*DANGER: This has been tested to mostly work, however, it has an unregulated peripheral power pin. Whilst it appears to mostly work it will eventually destroy your display.*
 
 Another Nice!Nano Clone, as with the SuperMini 58240 testing shows that it is almost fully compatible with the Nice!Nano.
 
