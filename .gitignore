@@ -1,2 +1,4 @@
 **/Rolio-backups
 .DS_Store
+pcb/right/fp-info-cache
+fp-info-cache

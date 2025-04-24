@@ -548,7 +548,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../Desktop/Rolio-Left.step",
+      "step": "../../chassis/electronics/left.step",
       "svg": "",
       "vrml": ""
     },
