@@ -4,9 +4,7 @@ This folder contains the KiCad 7 PCB design files for the left and right shield 
 
 # Ordering The PCBs from JLCPCB
 
-Inside the "Left" and "Right" folders there are "Gerbers" folders. These are gerber files that have been prepared for use with JLCPCB.
-
-The two "Gerbers" folders can be zipped independently and uploaded to JLCPCB for ordering.
+Inside the "Left" and "Right" folders there are "Gerbers" zips. These are gerber files that have been prepared for use with JLCPCB.
 
 The following settings were used when ordering:
 * Base Material:	FR-4
