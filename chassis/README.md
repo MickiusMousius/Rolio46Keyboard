@@ -10,20 +10,11 @@ This contains STEP file models with the electronics and PCB. These can be used w
 
 ## CNC
 
-This is by far the most expensive of the three options. It is also the most aesthetically pleasing, rigid and durable choice.
+This is by far the most expensive of the two options. It is also the most aesthetically pleasing, rigid and durable choice.
 
 It does have the drawback of being the heaviest.
 
 More information and preview images can be found in the [CNC Section](cnc/README.md).
-
-
-## SLS
-
-This is much cheaper than CNC and will still produce a very durable and professional looking chassis.
-
-SLS printing has been tested with JLCPCB and yielded good results. It should be noted that the SLS design should also be compatible with MJF and SLA manufacturing techniques, though this has not yet been validated.
-
-More information and sample images can be found in the [SLS Section](sls/README.md).
 
 ## FDM
 
