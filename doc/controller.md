@@ -2,22 +2,22 @@
 
 The controller provides the "brains" for the Rolio46 keyboard. All of the tested controllers provide the Bluetooth connectivity as well as battery charging and USB functionality. 
 
-Te following page as some excellent information regarding various controller options: https://github.com/joric/nrfmicro/wiki/Alternatives
+The following page as some excellent information regarding various controller options: https://github.com/joric/nrfmicro/wiki/Alternatives
 
 # Controllers
 
 There are three different controllers that have been tested with this project.
 
 
-| Nice!Nano  | SuperMini 52840 | 52840Nano |
-| ------------- | ------------- | ------------- |
-| ![Nice!Nano](../images/controllers/nice_nano.jpg)  | ![SuperMini NRF52840](../images/controllers/supermini_52840.jpg)  | ![52840Nano](../images/controllers/52840nano.jpg)  |
+| Nice!Nano  | Mikoto | SuperMini 52840 | 52840Nano |
+| ------------- | ------------- | ------------- |------------- |
+| ![Nice!Nano](../images/controllers/nice_nano.jpg)  | ![Mikoto](../images/controllers/mikoto.png)  | ![SuperMini NRF52840](../images/controllers/supermini_52840.jpg)  | ![52840Nano](../images/controllers/52840nano.jpg)  |
 
 Details for each controller are summarized below.
 
 ### Nice!Nano V2
 
-This is the most common of the available controllers and arguably the best. Documentation for this controller can be found on [nice keyboards](https://nicekeyboards.com/nice-nano/).
+This is the most common of the available controllers. Documentation for this controller can be found on [nice keyboards](https://nicekeyboards.com/nice-nano/).
 
 
 The most standout features are summarized below:
@@ -26,7 +26,20 @@ The most standout features are summarized below:
  * High manufacturing standards
  * Well established & widely used so its behavior is very well understood
 
-This is by far the best all round controller. It has an excellent power consumption profile, has good support for all required features and is readily available from many distributors.
+This is a good all round controller. It has an excellent power consumption profile, has good support for all required features and is readily available from many distributors.
+
+### Mikoto rev 7.2
+
+TIn my opnion the best of the available controllers. Documentation for this controller can be found on the [Mikoto GitHub](https://github.com/zhiayang/mikoto).
+
+
+The most standout features are summarized below:
+ * Excellent battery life, I get more than 4 weeks of usage with a Rolio 46.2
+ * Uses a battery fuel gauge (MAX1748) so provides much better battery reporting than a nice!nano and many of its clones
+ * Has an excellent power path management design
+
+The largest drawback to this controller is that it is not in common use & ony appears to be available from a [single vendor](https://keebd.com/products/mikoto-controller) (though, a very good vendor). The Rolio46 has a build target for the Mikoto that is actively tested/used.
+
 
 ### SuperMini NRF52840
 
