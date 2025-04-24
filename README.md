@@ -63,9 +63,3 @@ I have a design at FKCaps that has the key map of this board integrated into the
 <ins>Switches</ins>
 
 The Rolio46 is designed for use with Choc V1 switches, these can be purchased from many different vendors. My personal favorite switch is the "Choc Sunset" switch.
-
-# Gallery
-
-![](images/case.png)
-
-![](images/all_three.png)
