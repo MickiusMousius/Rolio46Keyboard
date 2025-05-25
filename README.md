@@ -5,7 +5,7 @@ The Rolio46 is now at the version 1.1 release! This repo contains all the design
 
 
 If you'd like to build your own Rolio46 you can find resources at the following two links:
- * [Rolio46 Github](https://github.com/MickiusMousius/RolioFirmware) - Firmware & user documentation for the Rolio46
+ * [RolioFirmware](https://github.com/MickiusMousius/RolioFirmware) - Firmware & user documentation for the Rolio46
  * [Keydio.io](https://keydio.io) - Online store to buy a complete kit or just some parts to build your own Rolio46
 
 # Features
