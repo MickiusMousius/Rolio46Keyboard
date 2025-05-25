@@ -3,7 +3,10 @@ The Rolio46 is now at the version 1.1 release! This repo contains all the design
 
 ![Rolio46](images/main.jpg?raw=true "Rolio46")
 
-I will be [opening a store](https://keydio.io) to make it easier for people to make their own Rolio46.1, all of the required parts and sub assemblies will be available for purchase. The main PCBs (AKA shield boards) will be sold with all of the surface mount components pre-soldered.
+
+If you'd like to build your own Rolio46 you can find resources at the following two links:
+ * [Rolio46 Github](https://github.com/MickiusMousius/RolioFirmware) - Firmware & user documentation for the Rolio46
+ * [Keydio.io](https://keydio.io) - Online store to buy a complete kit or just some parts to build your own Rolio46
 
 # Features
 The keyboard itself:
