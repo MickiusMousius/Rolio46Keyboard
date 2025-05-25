@@ -1,8 +1,8 @@
 # Introduction
 
-The display module provides an easy way for you to know if your Rolio halves are connected and talking to each other properly as well as your charge state and PC connection status.
+The display module provides an easy way for you to know if your Rolio46 halves are connected and talking to each other properly as well as your charge state and PC connection status.
 
-Whilst the displays are technically optional I'd not recommend building a Rolio without a display on each half.
+Whilst the displays are technically optional I'd not recommend building a Rolio46 without a display on each half.
 
 # Displays
 
@@ -16,7 +16,7 @@ Relevant details for each controller are roughly summarized below.
 
 ### Vista508
 
-The Vista508 is a wider version of the Vista272/nice!view, its electrical characteristics are very similar. Use of the Vista508 is the only difference between the Rolio46.1 and the Rolio46.2.
+The Vista508 is a wider version of the Vista272/nice!view, its electrical characteristics are very similar.
 
 The key details of the Vista508 display are as follows:
  * Display area of 20.88x24.36mm

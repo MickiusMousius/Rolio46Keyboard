@@ -1,7 +1,7 @@
 # Introduction
-The Rolio46 is now at the version 1.1 release! This repo contains all the design files so you can build your own Rolio46.1 or 46.2.
+The Rolio46 is now at the version 1.1 release! This repo contains all the design files so you can build your own Rolio46.
 
-![Rolio46.3](images/main.jpg?raw=true "Rolio46.3")
+![Rolio46](images/main.jpg?raw=true "Rolio46")
 
 I will be [opening a store](https://keydio.io) to make it easier for people to make their own Rolio46.1, all of the required parts and sub assemblies will be available for purchase. The main PCBs (AKA shield boards) will be sold with all of the surface mount components pre-soldered.
 
@@ -30,8 +30,16 @@ ZMK Key map & Custom key caps:
   [![Version 1.1 Key Caps](images/key_legend.png?raw=true "Version 1.1 Key Caps")](https://fkcaps.com/custom/UCR89J?a=KeydioDiscount)
 
 
+# Firmware
+
+You can download the latest firmware from here: [Rolio46 Firmware](https://github.com/MickiusMousius/RolioFirmware)
+
+When you push a change to your fork a GitHub action will create a new firmware build for you.
+
+If you want to do basic layout customization then [ZMK Studio](https://zmk.studio/download) should be all you need.
+
 # Build Resources
-In order to build a Rolio46.1 you will need 5 main sub assemblies, the links below provide information about the different sub assemblies:
+In order to build a Rolio46 you will need 5 main sub assemblies, the links below provide information about the different sub assemblies:
  * [The controller](doc/controller.md)
  * [The display](doc/display.md)
  * [The battery](doc/battery.md)
@@ -41,13 +49,6 @@ In order to build a Rolio46.1 you will need 5 main sub assemblies, the links bel
 The shield and chassis are the sub assemblies that are most unique to this project, all of the other sub assemblies are fungible.
 
 
-# Firmware
-
-You can download the latest firmware from here: [Rolio Firmware](https://github.com/MickiusMousius/RolioFirmware)
-
-When you push a change to your fork a GitHub action will create a new firmware build for you.
-
-If you want to do basic layout customization then [ZMK Studio](https://zmk.studio/download) should be all you need.
 
 # Other Components
 

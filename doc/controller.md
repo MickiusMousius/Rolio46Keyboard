@@ -34,7 +34,7 @@ TIn my opnion the best of the available controllers. Documentation for this cont
 
 
 The most standout features are summarized below:
- * Excellent battery life, I get more than 4 weeks of usage with a Rolio 46.2
+ * Excellent battery life, more than 4 weeks of usage with a Rolio46
  * Uses a battery fuel gauge (MAX1748) so provides much better battery reporting than a nice!nano and many of its clones
  * Has an excellent power path management design
 
@@ -53,7 +53,7 @@ Key details are summarized below:
  * Poor support for peripheral power control
  * Much cheaper than the Nice!Nano
 
- This controller is a good choice for those that type for several hours a day that are more price conscious. The Rolio46 can provide a little over a month of use between charges with this controller (depending on backlight usage etc). For a high usage scenario this controller's power profile is roughly comparable to the Nice!Nano.
+This controller is a good choice for those that type for several hours a day that are more price conscious. The Rolio46 can provide a little over 2 weeks of use between charges with this controller (depending on backlight usage etc). For a high usage scenario this controller's power profile is roughly comparable to the Nice!Nano.
 
 ### 52840Nano
 
